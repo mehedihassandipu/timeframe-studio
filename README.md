@@ -2,7 +2,7 @@
 
 **Publication-ready microscopy figures — Before · time-resolved · After — in one HTML file. Your pixels are never changed.**
 
-[**▶ Open the app**](https://YOUR-USERNAME.github.io/timeframe-studio/) · [User guide (PDF)](docs/TimeFrame_Studio_User_Guide.pdf) · [Example project](examples/demo.tfs.json)
+[**▶ Open the app**](https://mehedihassandipu.github.io/timeframe-studio/) · [User guide (PDF)](docs/TimeFrame_Studio_User_Guide.pdf) · [Example project](examples/demo.tfs.json)
 
 ![TimeFrame Studio](docs/images/app-light.png)
 
@@ -42,7 +42,7 @@ TimeFrame Studio replaces the PowerPoint → PDF → Preview “Export as TIFF�
 
 ## Quick start
 
-1. Open the app — [online](https://YOUR-USERNAME.github.io/timeframe-studio/), or download [`index.html`](index.html) and double-click it.
+1. Open the app — [online](https://mehedihassandipu.github.io/timeframe-studio/), or download [`index.html`](index.html) and double-click it.
 2. Drop your images onto the canvas. They arrive selected.
 3. Click **MAKE GRID**, set panel letters and scale bars on the left.
 4. **Export** (TIFF at 600 dpi is a good default for papers).
